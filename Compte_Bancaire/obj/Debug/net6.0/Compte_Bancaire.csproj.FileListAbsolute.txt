@@ -1,0 +1,14 @@
+C:\Users\alexi\Desktop\DEV\C\Compte_Bancaire\bin\Debug\net6.0\Compte_Bancaire.exe
+C:\Users\alexi\Desktop\DEV\C\Compte_Bancaire\bin\Debug\net6.0\Compte_Bancaire.deps.json
+C:\Users\alexi\Desktop\DEV\C\Compte_Bancaire\bin\Debug\net6.0\Compte_Bancaire.runtimeconfig.json
+C:\Users\alexi\Desktop\DEV\C\Compte_Bancaire\bin\Debug\net6.0\Compte_Bancaire.dll
+C:\Users\alexi\Desktop\DEV\C\Compte_Bancaire\bin\Debug\net6.0\Compte_Bancaire.pdb
+C:\Users\alexi\Desktop\DEV\C\Compte_Bancaire\obj\Debug\net6.0\Compte_Bancaire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\Desktop\DEV\C\Compte_Bancaire\obj\Debug\net6.0\Compte_Bancaire.AssemblyInfoInputs.cache
+C:\Users\alexi\Desktop\DEV\C\Compte_Bancaire\obj\Debug\net6.0\Compte_Bancaire.AssemblyInfo.cs
+C:\Users\alexi\Desktop\DEV\C\Compte_Bancaire\obj\Debug\net6.0\Compte_Bancaire.csproj.CoreCompileInputs.cache
+C:\Users\alexi\Desktop\DEV\C\Compte_Bancaire\obj\Debug\net6.0\Compte_Bancaire.dll
+C:\Users\alexi\Desktop\DEV\C\Compte_Bancaire\obj\Debug\net6.0\refint\Compte_Bancaire.dll
+C:\Users\alexi\Desktop\DEV\C\Compte_Bancaire\obj\Debug\net6.0\Compte_Bancaire.pdb
+C:\Users\alexi\Desktop\DEV\C\Compte_Bancaire\obj\Debug\net6.0\Compte_Bancaire.genruntimeconfig.cache
+C:\Users\alexi\Desktop\DEV\C\Compte_Bancaire\obj\Debug\net6.0\ref\Compte_Bancaire.dll
